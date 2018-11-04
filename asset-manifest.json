@@ -1,7 +1,7 @@
 {
-  "main.css": "/playground/static/css/main.b17553df.chunk.css",
-  "main.js": "/playground/static/js/main.92eceed8.chunk.js",
-  "main.js.map": "/playground/static/js/main.92eceed8.chunk.js.map",
+  "main.css": "/playground/static/css/main.74c05e70.chunk.css",
+  "main.js": "/playground/static/js/main.d401bfbc.chunk.js",
+  "main.js.map": "/playground/static/js/main.d401bfbc.chunk.js.map",
   "static/js/1.a443b786.chunk.js": "/playground/static/js/1.a443b786.chunk.js",
   "static/js/1.a443b786.chunk.js.map": "/playground/static/js/1.a443b786.chunk.js.map",
   "runtime~main.js": "/playground/static/js/runtime~main.fd2222a6.js",
@@ -12,8 +12,8 @@
   "static/media/wedding-dress.svg": "/playground/static/media/wedding-dress.3ae2f6d4.svg",
   "static/media/App.css": "/playground/static/media/blommor.11c13044.jpg",
   "static/media/placeholder.svg": "/playground/static/media/placeholder.e41fed32.svg",
-  "static/css/main.b17553df.chunk.css.map": "/playground/static/css/main.b17553df.chunk.css.map",
+  "static/css/main.74c05e70.chunk.css.map": "/playground/static/css/main.74c05e70.chunk.css.map",
   "index.html": "/playground/index.html",
-  "precache-manifest.8c7716ed618967918de3ce37f022a57c.js": "/playground/precache-manifest.8c7716ed618967918de3ce37f022a57c.js",
+  "precache-manifest.d4643dd75ac0d6e102e32efb3015fe6a.js": "/playground/precache-manifest.d4643dd75ac0d6e102e32efb3015fe6a.js",
   "service-worker.js": "/playground/service-worker.js"
 }

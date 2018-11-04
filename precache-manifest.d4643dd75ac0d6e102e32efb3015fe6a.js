@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/playground/static/media/wedding-day.905d37e0.svg"
   },
   {
-    "revision": "92eceed8d87243f111bc",
-    "url": "/playground/static/css/main.b17553df.chunk.css"
+    "revision": "d401bfbcb2314564b527",
+    "url": "/playground/static/css/main.74c05e70.chunk.css"
   },
   {
     "revision": "a443b786a06e3cdadc64",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/playground/static/media/placeholder.e41fed32.svg"
   },
   {
-    "revision": "92eceed8d87243f111bc",
-    "url": "/playground/static/js/main.92eceed8.chunk.js"
+    "revision": "d401bfbcb2314564b527",
+    "url": "/playground/static/js/main.d401bfbc.chunk.js"
   },
   {
     "revision": "972e17e43e863d4f1afd1b259345cfa2",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/playground/static/media/blommor.11c13044.jpg"
   },
   {
-    "revision": "467a36f87d731c5199052164bcee0d51",
+    "revision": "389c5b59ac97631ca8e131d6f6dc5c42",
     "url": "/playground/index.html"
   }
 ];
