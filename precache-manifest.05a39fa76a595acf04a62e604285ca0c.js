@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/playground/static/media/wedding.972e17e4.svg"
   },
   {
-    "revision": "1d97af3343cbbb2bad43",
-    "url": "/playground/static/css/main.76a48a81.chunk.css"
+    "revision": "4804532532aa57073b5e",
+    "url": "/playground/static/css/main.4c52c58f.chunk.css"
   },
   {
     "revision": "985be60ede45256cced2",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/playground/static/media/wedding-day.905d37e0.svg"
   },
   {
-    "revision": "1d97af3343cbbb2bad43",
-    "url": "/playground/static/js/main.1d97af33.chunk.js"
+    "revision": "4804532532aa57073b5e",
+    "url": "/playground/static/js/main.48045325.chunk.js"
   },
   {
     "revision": "3ae2f6d442cd39eb37ab773c9bc5fb7c",
@@ -40,19 +40,19 @@ self.__precacheManifest = [
     "url": "/playground/static/media/dress.b0fb3b83.svg"
   },
   {
-    "revision": "cbb206da3e4493fc2c690f494950765f",
-    "url": "/playground/static/media/flowers2.cbb206da.jpg"
-  },
-  {
     "revision": "6951e5937b65928086b6b5a5875bf7f3",
     "url": "/playground/static/media/start2.6951e593.jpeg"
+  },
+  {
+    "revision": "cbb206da3e4493fc2c690f494950765f",
+    "url": "/playground/static/media/flowers2.cbb206da.jpg"
   },
   {
     "revision": "11c13044437342770086fa929ebfce1a",
     "url": "/playground/static/media/blommor.11c13044.jpg"
   },
   {
-    "revision": "84fe9020aa967534aaf51b2a5bd97039",
+    "revision": "f767eb603986fbed18b5dc0ce16dd640",
     "url": "/playground/index.html"
   }
 ];
