@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/playground/static/media/wedding.972e17e4.svg"
   },
   {
-    "revision": "f71fde9cb2d113d2b7c7",
-    "url": "/playground/static/css/main.4e103df7.chunk.css"
+    "revision": "fbb9df8ec5c3b184b855",
+    "url": "/playground/static/css/main.b54bf2f1.chunk.css"
   },
   {
-    "revision": "985be60ede45256cced2",
-    "url": "/playground/static/js/1.985be60e.chunk.js"
+    "revision": "4fcf4db762a1b8f77fea",
+    "url": "/playground/static/js/1.4fcf4db7.chunk.js"
   },
   {
     "revision": "fd2222a613df36f2a7bd",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/playground/static/media/wedding-day.905d37e0.svg"
   },
   {
-    "revision": "f71fde9cb2d113d2b7c7",
-    "url": "/playground/static/js/main.f71fde9c.chunk.js"
+    "revision": "fbb9df8ec5c3b184b855",
+    "url": "/playground/static/js/main.fbb9df8e.chunk.js"
   },
   {
     "revision": "3ae2f6d442cd39eb37ab773c9bc5fb7c",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/playground/static/media/blommor.11c13044.jpg"
   },
   {
-    "revision": "a253d53f5b06c5893ad05dc673c7221b",
+    "revision": "aecf2076c4707bbaec259d152bc4792c",
     "url": "/playground/index.html"
   }
 ];
