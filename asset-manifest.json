@@ -1,7 +1,7 @@
 {
   "main.css": "/playground/static/css/main.4e103df7.chunk.css",
-  "main.js": "/playground/static/js/main.9e851bc7.chunk.js",
-  "main.js.map": "/playground/static/js/main.9e851bc7.chunk.js.map",
+  "main.js": "/playground/static/js/main.f71fde9c.chunk.js",
+  "main.js.map": "/playground/static/js/main.f71fde9c.chunk.js.map",
   "static/js/1.985be60e.chunk.js": "/playground/static/js/1.985be60e.chunk.js",
   "static/js/1.985be60e.chunk.js.map": "/playground/static/js/1.985be60e.chunk.js.map",
   "runtime~main.js": "/playground/static/js/runtime~main.fd2222a6.js",
@@ -11,10 +11,10 @@
   "static/media/wedding.svg": "/playground/static/media/wedding.972e17e4.svg",
   "static/media/wedding-dress.svg": "/playground/static/media/wedding-dress.3ae2f6d4.svg",
   "static/media/dress.svg": "/playground/static/media/dress.b0fb3b83.svg",
-  "static/media/App.css": "/playground/static/media/start2.6951e593.jpeg",
+  "static/media/App.css": "/playground/static/media/blommor.11c13044.jpg",
   "static/media/placeholder.svg": "/playground/static/media/placeholder.e41fed32.svg",
   "static/css/main.4e103df7.chunk.css.map": "/playground/static/css/main.4e103df7.chunk.css.map",
   "index.html": "/playground/index.html",
-  "precache-manifest.cd6e149851d8858b8eacb974918743ef.js": "/playground/precache-manifest.cd6e149851d8858b8eacb974918743ef.js",
+  "precache-manifest.4b23858d91c493f2dc2976d6d980fd20.js": "/playground/precache-manifest.4b23858d91c493f2dc2976d6d980fd20.js",
   "service-worker.js": "/playground/service-worker.js"
 }
