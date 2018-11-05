@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/playground/static/media/blommor.11c13044.jpg"
   },
   {
-    "revision": "28f024e944b48b585e98604271fac165",
+    "revision": "4b01d16fa2bffab9090505ef73a718bf",
     "url": "/playground/index.html"
   }
 ];
