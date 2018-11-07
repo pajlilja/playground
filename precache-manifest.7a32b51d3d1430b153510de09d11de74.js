@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/wedding-dress.3ae2f6d4.svg"
   },
   {
-    "revision": "a2897a2d86e1b7c898f1",
-    "url": "/static/css/main.5535295c.chunk.css"
+    "revision": "b25732db310c8ca1a3d6",
+    "url": "/static/css/main.8d53e603.chunk.css"
   },
   {
     "revision": "a443b786a06e3cdadc64",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/static/media/wedding.972e17e4.svg"
   },
   {
-    "revision": "a2897a2d86e1b7c898f1",
-    "url": "/static/js/main.a2897a2d.chunk.js"
+    "revision": "b25732db310c8ca1a3d6",
+    "url": "/static/js/main.b25732db.chunk.js"
   },
   {
     "revision": "84cf6b5a736d0e47d5f2a03e56a103a1",
@@ -48,19 +48,19 @@ self.__precacheManifest = [
     "url": "/static/media/gabriola.0dff4642.eot"
   },
   {
-    "revision": "cbb206da3e4493fc2c690f494950765f",
-    "url": "/static/media/flowers2.cbb206da.jpg"
-  },
-  {
     "revision": "33d5e150accc9d50dc3b3a2abed3a5b1",
     "url": "/static/media/jump.33d5e150.jpeg"
+  },
+  {
+    "revision": "cbb206da3e4493fc2c690f494950765f",
+    "url": "/static/media/flowers2.cbb206da.jpg"
   },
   {
     "revision": "6951e5937b65928086b6b5a5875bf7f3",
     "url": "/static/media/start2.6951e593.jpeg"
   },
   {
-    "revision": "01a9438529de1941170af3481f28b9c6",
+    "revision": "e29d78e813c1b2bbf1a4d7d9d6f9ec80",
     "url": "/index.html"
   }
 ];
