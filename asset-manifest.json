@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.d7a1ccab.chunk.css",
-  "main.js": "/static/js/main.34614d09.chunk.js",
-  "main.js.map": "/static/js/main.34614d09.chunk.js.map",
+  "main.css": "/static/css/main.2ec8acf7.chunk.css",
+  "main.js": "/static/js/main.b8a70177.chunk.js",
+  "main.js.map": "/static/js/main.b8a70177.chunk.js.map",
   "static/js/1.23a58846.chunk.js": "/static/js/1.23a58846.chunk.js",
   "static/js/1.23a58846.chunk.js.map": "/static/js/1.23a58846.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -10,10 +10,10 @@
   "static/media/wedding-day.svg": "/static/media/wedding-day.905d37e0.svg",
   "static/media/wedding.svg": "/static/media/wedding.972e17e4.svg",
   "static/media/wedding-dress.svg": "/static/media/wedding-dress.3ae2f6d4.svg",
-  "static/media/App.css": "/static/media/flowers2.cbb206da.jpg",
+  "static/media/App.css": "/static/media/jump.33d5e150.jpeg",
   "static/media/placeholder.svg": "/static/media/placeholder.e41fed32.svg",
-  "static/css/main.d7a1ccab.chunk.css.map": "/static/css/main.d7a1ccab.chunk.css.map",
+  "static/css/main.2ec8acf7.chunk.css.map": "/static/css/main.2ec8acf7.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.4f281593e4a4e5228dbe52e86d75f9a2.js": "/precache-manifest.4f281593e4a4e5228dbe52e86d75f9a2.js",
+  "precache-manifest.319a59c4d0cc8c123433d48e135df9ec.js": "/precache-manifest.319a59c4d0cc8c123433d48e135df9ec.js",
   "service-worker.js": "/service-worker.js"
 }
