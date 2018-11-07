@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/playground/static/media/gabriola.0dff4642.eot"
   },
   {
-    "revision": "cbb206da3e4493fc2c690f494950765f",
-    "url": "/playground/static/media/flowers2.cbb206da.jpg"
-  },
-  {
     "revision": "6951e5937b65928086b6b5a5875bf7f3",
     "url": "/playground/static/media/start2.6951e593.jpeg"
+  },
+  {
+    "revision": "cbb206da3e4493fc2c690f494950765f",
+    "url": "/playground/static/media/flowers2.cbb206da.jpg"
   },
   {
     "revision": "11c13044437342770086fa929ebfce1a",
