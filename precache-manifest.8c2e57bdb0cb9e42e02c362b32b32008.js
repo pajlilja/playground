@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "3ae2f6d442cd39eb37ab773c9bc5fb7c",
-    "url": "/static/media/wedding-dress.3ae2f6d4.svg"
+    "revision": "3843ffc23b2e7b3311d141f13aede908",
+    "url": "/static/media/boende1.3843ffc2.jpeg"
   },
   {
-    "revision": "403c78e8238b46539a79",
-    "url": "/static/css/main.75360d88.chunk.css"
+    "revision": "2df694af103e223a4fef",
+    "url": "/static/css/main.06e02b62.chunk.css"
   },
   {
-    "revision": "23a5884673df02561875",
-    "url": "/static/js/1.23a58846.chunk.js"
+    "revision": "6292ce5e79ed40f9e500",
+    "url": "/static/js/1.6292ce5e.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -32,8 +32,16 @@ self.__precacheManifest = [
     "url": "/static/media/wedding.972e17e4.svg"
   },
   {
-    "revision": "403c78e8238b46539a79",
-    "url": "/static/js/main.403c78e8.chunk.js"
+    "revision": "3ae2f6d442cd39eb37ab773c9bc5fb7c",
+    "url": "/static/media/wedding-dress.3ae2f6d4.svg"
+  },
+  {
+    "revision": "2df694af103e223a4fef",
+    "url": "/static/js/main.2df694af.chunk.js"
+  },
+  {
+    "revision": "c66083b653730012154439ec61d8ec06",
+    "url": "/static/media/boende2.c66083b6.jpeg"
   },
   {
     "revision": "84cf6b5a736d0e47d5f2a03e56a103a1",
@@ -44,23 +52,23 @@ self.__precacheManifest = [
     "url": "/static/media/Gabriola.c5b593dc.woff"
   },
   {
-    "revision": "0dff4642ff2d34918e13b9bfd425c8fc",
-    "url": "/static/media/gabriola.0dff4642.eot"
+    "revision": "cbb206da3e4493fc2c690f494950765f",
+    "url": "/static/media/flowers2.cbb206da.jpg"
   },
   {
     "revision": "6951e5937b65928086b6b5a5875bf7f3",
     "url": "/static/media/start2.6951e593.jpeg"
   },
   {
+    "revision": "0dff4642ff2d34918e13b9bfd425c8fc",
+    "url": "/static/media/gabriola.0dff4642.eot"
+  },
+  {
     "revision": "2b7a2f5931c2c6af37a689f33d79f871",
     "url": "/static/media/jump3.2b7a2f59.jpg"
   },
   {
-    "revision": "cbb206da3e4493fc2c690f494950765f",
-    "url": "/static/media/flowers2.cbb206da.jpg"
-  },
-  {
-    "revision": "c26a15436a1f3a81c5c62c0ed9349623",
+    "revision": "d4c40fccecfac92ba9a80284eefaba66",
     "url": "/index.html"
   }
 ];
