@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/boende1.3843ffc2.jpeg"
   },
   {
-    "revision": "985102c10be0ffab05d4",
+    "revision": "46f3c2a3a174f371f548",
     "url": "/static/css/main.b9600bea.chunk.css"
   },
   {
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/wedding-dress.3ae2f6d4.svg"
   },
   {
-    "revision": "985102c10be0ffab05d4",
-    "url": "/static/js/main.985102c1.chunk.js"
+    "revision": "46f3c2a3a174f371f548",
+    "url": "/static/js/main.46f3c2a3.chunk.js"
   },
   {
     "revision": "c66083b653730012154439ec61d8ec06",
@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/static/media/gabriola.0dff4642.eot"
   },
   {
-    "revision": "1f13a2314d43a0dbbdbe73ea6e41d136",
+    "revision": "3cac1ac0002e1fa718c497a807fa12a9",
     "url": "/index.html"
   }
 ];
