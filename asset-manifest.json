@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.4e76f0b6.chunk.css",
-  "main.js": "/static/js/main.2c1c79e8.chunk.js",
-  "main.js.map": "/static/js/main.2c1c79e8.chunk.js.map",
-  "static/js/1.0ee92b77.chunk.js": "/static/js/1.0ee92b77.chunk.js",
-  "static/js/1.0ee92b77.chunk.js.map": "/static/js/1.0ee92b77.chunk.js.map",
+  "main.css": "/static/css/main.03d70e94.chunk.css",
+  "main.js": "/static/js/main.b930d191.chunk.js",
+  "main.js.map": "/static/js/main.b930d191.chunk.js.map",
+  "static/js/1.84f371fc.chunk.js": "/static/js/1.84f371fc.chunk.js",
+  "static/js/1.84f371fc.chunk.js.map": "/static/js/1.84f371fc.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/App.css": "/static/media/gabriola.0dff4642.eot",
@@ -17,8 +17,8 @@
   "static/media/boende1.jpeg": "/static/media/boende1.3843ffc2.jpeg",
   "static/media/boende2.jpeg": "/static/media/boende2.c66083b6.jpeg",
   "static/media/gift.svg": "/static/media/gift.1dc5ab27.svg",
-  "static/css/main.4e76f0b6.chunk.css.map": "/static/css/main.4e76f0b6.chunk.css.map",
+  "static/css/main.03d70e94.chunk.css.map": "/static/css/main.03d70e94.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.4bc16f2ae261c5e4e5f575ae60cb5a2c.js": "/precache-manifest.4bc16f2ae261c5e4e5f575ae60cb5a2c.js",
+  "precache-manifest.d4a5ba05275641290384a7f05d13b0c8.js": "/precache-manifest.d4a5ba05275641290384a7f05d13b0c8.js",
   "service-worker.js": "/service-worker.js"
 }
