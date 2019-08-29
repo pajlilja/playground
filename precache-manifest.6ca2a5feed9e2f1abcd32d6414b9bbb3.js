@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "0b61d59abbb89164d0ad2a317599486f",
-    "url": "/static/media/dinner-table.0b61d59a.svg"
+    "revision": "9b441c62d7850b82cb919e140f645498",
+    "url": "/static/media/quiz.9b441c62.svg"
   },
   {
-    "revision": "391089b0b7361f9aa008",
-    "url": "/static/css/main.743ed03f.chunk.css"
+    "revision": "12cf635e0e33770cfd9c",
+    "url": "/static/css/main.2ef4552e.chunk.css"
   },
   {
-    "revision": "cca181163b50f9683b1a",
-    "url": "/static/js/1.cca18116.chunk.js"
+    "revision": "161e3eab731a2086c75a",
+    "url": "/static/js/1.161e3eab.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -18,6 +18,10 @@ self.__precacheManifest = [
   {
     "revision": "972e17e43e863d4f1afd1b259345cfa2",
     "url": "/static/media/wedding.972e17e4.svg"
+  },
+  {
+    "revision": "228d1bf66c28aa48fff36b8b3b3bc266",
+    "url": "/static/media/catering2.228d1bf6.svg"
   },
   {
     "revision": "1dc5ab2775d428bdeae922aad0d84ecb",
@@ -40,12 +44,32 @@ self.__precacheManifest = [
     "url": "/static/media/toast.2eb27e89.svg"
   },
   {
-    "revision": "391089b0b7361f9aa008",
-    "url": "/static/js/main.391089b0.chunk.js"
+    "revision": "0b61d59abbb89164d0ad2a317599486f",
+    "url": "/static/media/dinner-table.0b61d59a.svg"
   },
   {
     "revision": "cf7ce5229caf0a66027aeb2b9f022c4c",
     "url": "/static/media/dancing.cf7ce522.svg"
+  },
+  {
+    "revision": "12cf635e0e33770cfd9c",
+    "url": "/static/js/main.12cf635e.chunk.js"
+  },
+  {
+    "revision": "25c93e3591409477cfab60978a1070ca",
+    "url": "/static/media/buffet.25c93e35.svg"
+  },
+  {
+    "revision": "cd4d10fd7026ad33db948125e006224e",
+    "url": "/static/media/laugh.cd4d10fd.svg"
+  },
+  {
+    "revision": "0eb46bb8c77ed5523115988facd1e116",
+    "url": "/static/media/wedding-cake.0eb46bb8.svg"
+  },
+  {
+    "revision": "af9a08757d9b759ca5cee0137f63c32d",
+    "url": "/static/media/confetti.af9a0875.svg"
   },
   {
     "revision": "3843ffc23b2e7b3311d141f13aede908",
@@ -60,27 +84,27 @@ self.__precacheManifest = [
     "url": "/static/media/start2.6951e593.jpeg"
   },
   {
-    "revision": "cbb206da3e4493fc2c690f494950765f",
-    "url": "/static/media/flowers2.cbb206da.jpg"
-  },
-  {
     "revision": "2b7a2f5931c2c6af37a689f33d79f871",
     "url": "/static/media/jump3.2b7a2f59.jpg"
   },
   {
-    "revision": "84cf6b5a736d0e47d5f2a03e56a103a1",
-    "url": "/static/media/gabriola.84cf6b5a.woff2"
+    "revision": "cbb206da3e4493fc2c690f494950765f",
+    "url": "/static/media/flowers2.cbb206da.jpg"
   },
   {
     "revision": "c5b593dcb723dabd54f1343ff566f2ef",
     "url": "/static/media/Gabriola.c5b593dc.woff"
   },
   {
+    "revision": "84cf6b5a736d0e47d5f2a03e56a103a1",
+    "url": "/static/media/gabriola.84cf6b5a.woff2"
+  },
+  {
     "revision": "0dff4642ff2d34918e13b9bfd425c8fc",
     "url": "/static/media/gabriola.0dff4642.eot"
   },
   {
-    "revision": "97d9a5e58c704ff5dfe3fc9af3157b93",
+    "revision": "9989ebe7e72f95db2f1f461cbc9b9e61",
     "url": "/index.html"
   }
 ];
